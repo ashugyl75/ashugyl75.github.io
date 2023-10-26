@@ -1,8 +1,8 @@
 ---
-title: Hello-world!
-date: 2023-10-26 11:29:00 +0530
-categories: [tech_blog, basics]
-tags: [firstblog]     # TAG names should always be lowercase
+title: Regex Notes
+date: 2023-10-26 12:13:00 +0530
+categories: [tech_blog, Regex]
+tags: [firstblog, RegEx]     # TAG names should always be lowercase
 ---
 
 A regular expression (or RE) specifies a set of strings that matches it; the functions in this module let you check if a particular string matches a given regular expression (or if a given regular expression matches a particular string, which comes down to the same thing). And the best part is that re is universal to all languages, so learning it can help with string manipulation in all languages
